@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linux add aaa.txt
+=======
+win add aaa
+>>>>>>> e051214ffe2031d7d14286a8e376b326d7c77cba
